@@ -14,7 +14,7 @@ _An exercise using branching to display different messages and content to users.
 * Navigate to index.html file.
 * Right click and open in the browser of your choice.
 
-* Alternatively, open the webpage at https://jhvozdovich.github.io/verify-age/
+* Alternatively, open the webpage at https://jhvozdovich.github.io/verify-age/ or https://mikah-mathews.github.io/beer-site/
 
 ## Known Bugs
 
